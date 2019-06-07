@@ -32,7 +32,7 @@ p {
   clear: left;
 }
 
-/*BOOK*/
+/*BOOKINGS*/
 .bd {
   /* Full height */
   width: 700px;
@@ -43,6 +43,10 @@ p {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+/* CONTACT MODAL */
+.modal {
+  opacity: .8;
 }
   /*PORTFOLIO*/
   .row {
